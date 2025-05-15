@@ -1,5 +1,3 @@
-# Defender-Disabler
-
 <!-- language --> 
 <div align="center">
   <h1>🌍 Available Languages:</h1>
