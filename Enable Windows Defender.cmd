@@ -1,5 +1,5 @@
 @echo off
-:: Version 1.0
+:: Version 1.1
 :: Created By XMONTECH1337X
 echo Enabling Windows Defender Services...
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Sense" /v "Start" /t REG_DWORD /d "3" /f
