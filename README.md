@@ -1,5 +1,4 @@
 # Defender-Disabler
-Defender Disabler
 
 
 # How to use it
