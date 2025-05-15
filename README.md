@@ -7,4 +7,4 @@ Defender Disabler
 2. Open CMD via PowerRun
 
 
-! if you disable it without using Power Run, the script will not work correctly.
+*if you disable it without using Power Run, the script will not work correctly.*
